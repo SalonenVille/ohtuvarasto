@@ -1,3 +1,3 @@
 # ohtuvarasto
 ![example branch parameter]
-(https://github.com/SalonenVille/ohtuvarasto/actions/workflows/WORKFLOW-FILE/badge.svg)
+(https://github.com/mluukkai/ohtuvarasto/actions/workflows/main.yml/badge.svg)
